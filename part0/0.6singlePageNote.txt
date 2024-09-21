@@ -1,4 +1,4 @@
-browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+rowser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 
 note over browser:
 include newnote's JSON,content and date
